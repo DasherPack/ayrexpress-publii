@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>A&amp;R Express</title>
+    <link href="https://dasherpack.github.io/ayrexpress-publii/feed.xml" rel="self" />
+    <link href="https://dasherpack.github.io/ayrexpress-publii" />
+    <updated>2025-07-03T15:20:22+02:00</updated>
+    <author>
+        <name>A&amp;R Express</name>
+    </author>
+    <id>https://dasherpack.github.io/ayrexpress-publii</id>
+
+    <entry>
+        <title>¡Nueva página web!</title>
+        <author>
+            <name>A&amp;R Express</name>
+        </author>
+        <link href="https://dasherpack.github.io/ayrexpress-publii/nueva-pagina-web/"/>
+        <id>https://dasherpack.github.io/ayrexpress-publii/nueva-pagina-web/</id>
+        <media:content url="https://dasherpack.github.io/ayrexpress-publii/media/posts/10/Captura.PNG" medium="image" />
+
+        <updated>2025-07-03T15:19:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dasherpack.github.io/ayrexpress-publii/media/posts/10/Captura.PNG" alt="" />
+                    Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dasherpack.github.io/ayrexpress-publii/media/posts/10/Captura.PNG" class="type:primaryImage" alt="" /></p>
+                <p>Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
